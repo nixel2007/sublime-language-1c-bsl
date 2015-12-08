@@ -14,7 +14,7 @@
 1. Установить [Package Control](https://sublime.wbond.net/installation)
 2. Открыть `Tools` → `Command Palette`
 3. Выбрать `Package Control: Install Package`
-4. Указать в поиске пакет `language-1c-bsl` и установить его
+4. Указать в поиске пакет `Language 1C (BSL)` и установить его
 
 ***Установка значений по умолчанию***
 
@@ -52,7 +52,7 @@ following:
 1. Install [Package Control](https://sublime.wbond.net/installation)
 2. Open `Tools` → `Command Palette`
 3. Select `Package Control: Install Package`
-4. Search for `language-1c-bsl` packages and install it
+4. Search for `Language 1C (BSL)` packages and install it
 
 ***Set as default***
 
