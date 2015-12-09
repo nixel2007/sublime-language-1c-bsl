@@ -11,7 +11,7 @@
 
 Самый быстрый и простой способ установить этот пакет для Sublime Text:
 
-1. Установить [Package Control](https://sublime.wbond.net/installation)
+1. Установить [Package Control](https://packagecontrol.io/installation)
 2. Открыть `Tools` → `Command Palette`
 3. Выбрать `Package Control: Install Package`
 4. Указать в поиске пакет `Language 1C (BSL)` и установить его
@@ -49,7 +49,7 @@ Installation
 The fastest and easiest way to install these packages for Sublime Text is the
 following:
 
-1. Install [Package Control](https://sublime.wbond.net/installation)
+1. Install [Package Control](https://packagecontrol.io/installation)
 2. Open `Tools` → `Command Palette`
 3. Select `Package Control: Install Package`
 4. Search for `Language 1C (BSL)` packages and install it
