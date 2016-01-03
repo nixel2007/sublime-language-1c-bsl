@@ -9,6 +9,10 @@
             "cmd": ["oscript", "-encoding=utf-8", "-compile", "$file"]
         },
         {
+            "name": "Make",
+            "cmd": ["oscript", "-encoding=utf-8", "-make", "$file"]
+        },
+        {
             "name": "Run",
             "cmd": ["oscript", "-encoding=utf-8", "$file"]
         }
