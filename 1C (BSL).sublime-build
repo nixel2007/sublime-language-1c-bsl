@@ -10,7 +10,7 @@
         },
         {
             "name": "Make",
-            "cmd": ["oscript", "-encoding=utf-8", "-make", "$file", "$file_base_name" + ".exe"]
+            "cmd": ["oscript", "-encoding=utf-8", "-make", "$file", "$file_base_name.exe"]
         },
         {
             "name": "Run",
