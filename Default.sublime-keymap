@@ -1,20 +1,20 @@
 [
-    {
-    	"keys": [
-    		"enter"
-    	],
-    	"command": "run_macro_file",
-    	"args": {
-    		"file": "Packages/Language 1C (BSL)/AddPipe.sublime-macro"
-    	},
-    	"context":
-        	[
-            	{
-            		"key": "selector",
-            		"operator": "equal",
-            		"operand": "string.quoted.double.bsl",
-            		"match_all": false
-            	}
-        	]
+  {
+    "keys": [
+      "enter"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/Language 1C (BSL)/AddPipe.sublime-macro"
     },
+    "context":
+      [
+        {
+          "key": "selector",
+          "operator": "equal",
+          "operand": "string.quoted.double.bsl",
+          "match_all": false
+        }
+      ]
+  },
 ]

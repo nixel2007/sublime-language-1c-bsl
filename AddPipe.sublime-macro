@@ -1,8 +1,8 @@
 [
   {
-  	"command": "insert",
-  	"args": {
-  		"characters": "\n|"
-  	}
+    "command": "insert",
+    "args": {
+      "characters": "\n|"
+    }
   }
 ]
