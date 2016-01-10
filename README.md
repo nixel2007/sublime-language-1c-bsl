@@ -82,4 +82,4 @@ Contribute
 
 Contributions are greatly appreciated. Development is carried in a parent repository [xDrivenDevelopment/1c-syntax](https://github.com/xDrivenDevelopment/1c-syntax)
 
-![default](https://cloud.githubusercontent.com/assets/1132840/11656944/ad163fa4-9dc9-11e5-97fa-da00f67b2e00.PNG)
+![st](https://cloud.githubusercontent.com/assets/1132840/12221775/e1e22810-b7b9-11e5-9d02-8c707b5d14fc.PNG)
