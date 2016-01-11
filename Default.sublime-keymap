@@ -13,8 +13,8 @@
           "key": "selector",
           "operator": "equal",
           "operand": "string.quoted.double.bsl",
-          "match_all": false
+          "match_all": true
         }
       ]
-  },
+  }
 ]
