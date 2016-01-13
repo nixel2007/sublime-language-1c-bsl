@@ -14,6 +14,11 @@
           "operator": "equal",
           "operand": "string.quoted.double.bsl",
           "match_all": true
+        },
+        {
+          "key": "auto_complete_visible",
+          "operator": "equal",
+          "operand": false
         }
       ]
   }
