@@ -3,9 +3,9 @@
     "keys": [
       "enter"
     ],
-    "command": "run_macro_file",
+    "command": "insert",
     "args": {
-      "file": "Packages/Language 1C (BSL)/AddPipe.sublime-macro"
+      "characters": "\n|"
     },
     "context":
       [
@@ -21,9 +21,9 @@
     "keys": [
       "enter"
     ],
-    "command": "run_macro_file",
+    "command": "insert",
     "args": {
-      "file": "Packages/Language 1C (BSL)/AddPipe.sublime-macro"
+      "characters": "\n|"
     },
     "context":
       [
