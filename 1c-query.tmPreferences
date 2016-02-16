@@ -5,7 +5,7 @@
     <key>name</key>
     <string>Miscellaneous</string>
     <key>scope</key>
-    <string>source.1c-query</string>
+    <string>source.sdbl</string>
     <key>settings</key>
     <dict>
         <key>shellVariables</key>
