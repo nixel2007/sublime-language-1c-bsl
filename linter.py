@@ -1,5 +1,6 @@
 """This module exports the OneScriptLint plugin class."""
 
+import sublime
 from SublimeLinter.lint import Linter, util
 
 class OneScriptLint(Linter):
